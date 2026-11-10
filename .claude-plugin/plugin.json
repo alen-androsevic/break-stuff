@@ -1,0 +1,9 @@
+{
+  "name": "break-stuff",
+  "description": "Drives a running web page or mobile app as a hostile user, tries to break it, and reports every break with repro steps and evidence",
+  "author": { "name": "Alen Androsevic", "url": "https://github.com/alen-androsevic" },
+  "homepage": "https://github.com/alen-androsevic/break-stuff",
+  "repository": "https://github.com/alen-androsevic/break-stuff",
+  "license": "MIT",
+  "keywords": ["testing", "qa", "chaos", "accessibility", "browser"]
+}

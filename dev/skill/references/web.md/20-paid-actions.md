@@ -1,0 +1,3 @@
+## Actions that cost money or reach other people
+
+If a submit starts paid or outward work (model calls, emails, payments, webhooks), agree a cap with the user before attacking, and run the repeat attacks (double-click, key repeat, monkey) against a stub of that transport, so they count what would have been sent instead of sending it. For example, replace `window.EventSource` or `fetch` for that one endpoint with an object that logs its URL, and let everything else through. Say in the report which attacks ran against the stub. Delete whatever the capped real runs wrote, once you have kept copies as evidence.
